@@ -1,0 +1,15 @@
+Information about object: obj_recipebook
+Sprite: Recipebook
+Solid: false
+Visible: true
+Depth: 0
+Persistent: false
+Parent: 
+Children: 
+Mask: 
+
+No Physics Object
+Mouse Event for Left Released:
+
+play sound sound_button; looping: false
+Go to room Recipe_Book

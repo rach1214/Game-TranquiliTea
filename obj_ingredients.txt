@@ -1,0 +1,31 @@
+obj_camelia //change the obj name to match the ingredient since this code is the same for all ingredients
+sprite camelia 
+
+on create execute a piece of code
+grab = false;
+xx = 0;
+yy = 0;
+camelia_grab = false;
+
+on step execute a piece of code
+if (grab == false)
+{
+    exit;
+}
+else
+{
+ x = mouse_x + xx;
+ y = mouse_y + yy;
+}
+
+on left pressed execute a piece of code
+grab = true;
+depth = -1;
+xx = x - mouse_x;
+yy = y - mouse_y;
+camelia_grab=true;
+
+on left released execute a piece of code
+grab = false;
+depth = 0;
+camelia_grab = false;
