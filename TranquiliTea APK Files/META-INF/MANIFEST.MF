@@ -1,0 +1,142 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 2.2.0
+
+Name: lib/mips/libyoyo.so
+SHA1-Digest: 9ebgynOn5rHQ7rl/pvXwA+2jRsM=
+
+Name: AndroidManifest.xml
+SHA1-Digest: cgny5idN7RjTlNasL7Vsz/cNXF0=
+
+Name: res/layout/userpasslayout.xml
+SHA1-Digest: 6y1knTB6sEeAxXnOXDwg7NfTgII=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: bTbIToIcyX9/otr7PbUl7u8AXy4=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: 2Md/zEF013+SLw/6TlWo/Lo7cLw=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: mPW1JEp12BCo1dNImtz6u9m1Qkw=
+
+Name: assets/sound_jasmine.ogg
+SHA1-Digest: EJK1cK32F8U5nqiqGLnmhTbGx0Q=
+
+Name: assets/sound_nsert.ogg
+SHA1-Digest: grLn+lYv6pviPh6cIiSH30WtSpw=
+
+Name: assets/sound_start.ogg
+SHA1-Digest: ZXJmM0Tbm5SfiCiyXYBwsWY0WjY=
+
+Name: lib/armeabi/libyoyo.so
+SHA1-Digest: bKtUt/GkZrOkoc0+MuAnIjBHWVs=
+
+Name: assets/sound_camelliasinensus.ogg
+SHA1-Digest: NhWqLbPxx0kS7EaVX3jdNuoup44=
+
+Name: assets/sound_shoumei.ogg
+SHA1-Digest: QdxuK6v22q/tbF7ftJ9x/fMmGr8=
+
+Name: assets/sound_ginger.ogg
+SHA1-Digest: nuuYS9UCd+g5MUTUWlITc9Q7c4c=
+
+Name: assets/sound_water.ogg
+SHA1-Digest: Gf/Jy46yNygdmugqddELX+vvrp4=
+
+Name: assets/game.droid
+SHA1-Digest: fpw4t6xYLpWqHBbq5uuDIl2yLAw=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: Yy9Ybcgmh/NNqtCYyRDjDtxpd0M=
+
+Name: assets/windows_ding.ogg
+SHA1-Digest: 1EjJz4m5wEQoeVRo9Fdy9Z3aZUM=
+
+Name: res/layout/download.xml
+SHA1-Digest: 82dfyNC5Gt48MMRo+eInqgde6bc=
+
+Name: assets/portrait_splash.png
+SHA1-Digest: hySOM7kn6U/RQ6Wj9vRhO+pMTAs=
+
+Name: lib/x86/libopenal.so
+SHA1-Digest: CQmQycJoAnl0oSyLeo7zJSkQW04=
+
+Name: lib/armeabi-v7a/libyoyo.so
+SHA1-Digest: QKRBpLjgZycPfevkB2j/yHMRAfQ=
+
+Name: assets/sound_boba.ogg
+SHA1-Digest: SWXxvRU7mbTPuHSjLMEs+lHH/OQ=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: XvicTh2hgWzyDT7h87+81KNCUDE=
+
+Name: assets/sound_honey.ogg
+SHA1-Digest: ZpZTD5a5MFjk+l/4+t0oGEUPAI4=
+
+Name: assets/sound_milk.ogg
+SHA1-Digest: TOYwVTz8crb6KtwHtEouD50kcBM=
+
+Name: assets/sound_longan.ogg
+SHA1-Digest: SzeQvn22GKA3x4t1htwcD4d2LY8=
+
+Name: assets/sound_chrysanthemum.ogg
+SHA1-Digest: H1IWrj+4AFLDJd3R2OjFEj7kyjA=
+
+Name: assets/sound_reddate.ogg
+SHA1-Digest: w7pSq1jv0hdMfZhfNuV8ThYyY8I=
+
+Name: assets/sound_rougui.ogg
+SHA1-Digest: MqYOqO1kvqKgnJsWLJ1MW5WQIsY=
+
+Name: res/drawable/icon.png
+SHA1-Digest: Exd2wp+Ruak+CVNhZIL/Ex/xlJk=
+
+Name: assets/sound_bgm.ogg
+SHA1-Digest: O6UNBi6otH+n+6oHyOUoHYEV8eM=
+
+Name: res/layout/main.xml
+SHA1-Digest: HVM6DdM0jkwkKeKUoNp7ZRQWdoM=
+
+Name: lib/armeabi/libopenal.so
+SHA1-Digest: JL16dpyGZVASVuCAikdw7qaNWTw=
+
+Name: lib/mips/libopenal.so
+SHA1-Digest: Iu5EOBzrwrRiMk0hmzGUIwTMw8c=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: Exd2wp+Ruak+CVNhZIL/Ex/xlJk=
+
+Name: assets/sound_tap.ogg
+SHA1-Digest: PQwDWD6KLowmAT2I03+O8OxYXg0=
+
+Name: assets/sound_sugar.ogg
+SHA1-Digest: pMevAeKsrGtIeXmG0WwhoOMBAxg=
+
+Name: assets/sound_ready.ogg
+SHA1-Digest: uO1KiE1v4Ky0m6HovuZ4izLjt9I=
+
+Name: assets/sound_button.ogg
+SHA1-Digest: QQaGCDWQzGVaeO2rlm1kMJ3p3NY=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: PvaRzo1lihlpyljy2Opztv088VY=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: 3nbajhSaEsBUgsMdDf0rOuZVzug=
+
+Name: resources.arsc
+SHA1-Digest: xMPRcdZBLPr7UaVV39yPs/GTHps=
+
+Name: lib/x86/libyoyo.so
+SHA1-Digest: ge2P+sWk/Sd6leFLwI6sLB8A+qE=
+
+Name: assets/splash.png
+SHA1-Digest: NYMJuWpCh+YqB4gkIflooO6Fwno=
+
+Name: classes.dex
+SHA1-Digest: elMfVjUx2X2A1leARMl8VH3VYz8=
+
+Name: assets/sound_cameliataliensus.ogg
+SHA1-Digest: s0k1AbfBKcpTPYnbWn/JwXqaL9c=
+
